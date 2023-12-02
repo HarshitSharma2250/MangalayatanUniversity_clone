@@ -24,7 +24,7 @@ this is a clone of mangalayatan university , i tried to make it interactive so u
 
 ## Images
 
-![Sample Image](mupic/mu1.jpg)
+![Screenshot 1](./mupic/mu1.png)
 
 
 
