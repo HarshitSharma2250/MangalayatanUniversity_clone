@@ -90,7 +90,3 @@ my name is harshit kumar sharma , im a front end doveloper
 
 
 
-
-## 🛠 Skills
- HTML, CSS
-
