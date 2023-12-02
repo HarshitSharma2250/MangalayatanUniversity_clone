@@ -1,4 +1,5 @@
 
+
 # mangalayatan university
 
 this is a clone of mangalayatan university , i tried to make it interactive so user can interec with it ,Manglayatan University is a private university established in 2006, recognised by University Grants Commission. Its campus is located in the city of Aligarh in the Indian state of Uttar Pradesh. 
@@ -22,14 +23,21 @@ this is a clone of mangalayatan university , i tried to make it interactive so u
 - added some good style 
 - slide menu bar 
 
-## Images
-
+## images
 ![Screenshot 1](./mupic/mu1.png)
+this is first top page , i added some list when hover on it there are also list inside it
 
+![Screenshot 1](./mupic/mu2.png)
+these are university visitors list
 
+![Screenshot 1](./mupic/mu3.png)
+this will pen when width will reduce so navbar will open when click on menu 
 
-
-
+![Screenshot 1](./mupic/mu4.png)
+this icon basically silde from left to right when click on it 
+and are some recruitres list
+![Screenshot 1](./mupic/mu5.png)
+this is my footer page
 
 ## Documentation
 
@@ -73,6 +81,12 @@ my name is harshit kumar sharma , im a front end doveloper
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on react projects
+
+
+
+
+## 🛠 Skills
+ HTML, CSS
 
 
 
